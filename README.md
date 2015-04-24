@@ -12,11 +12,7 @@ and contain information.
 Requirements
 ------------
 
-In order to complete this assignment, you will need to write HTML and CSS to
-create a page that matches the layout provided (``target_layout.png``). You
-must also link all of the pages together successfully.
-
-This assignment requires:
+In order to complete this assignment, you must fulfill the following requirements:
 
 1. Pay attention to the TODOs in the HTML files. They tell you what enhancements
    you must make.
