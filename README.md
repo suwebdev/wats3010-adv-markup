@@ -1,8 +1,8 @@
-wats1010-adv-markup
+WATS 3010: Advanced Markup Project
 ===================
 
-This is the source repository for the WATS1010 Introduction to Web Development
-Advanced Markup assignment.
+This is the source repository for the WATS3010 Introduction to Web Development
+Advanced Markup project.
 
 The purpose of this assignment is to practice additional markup techniques,
 including presentation of tabular data in an accessible format, and the
